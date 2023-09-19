@@ -11,4 +11,4 @@ The objective of this analysis are:
 * Generate and execute AutoAI notebook, pipelines notebook, and analyze the results.
 
 ## Architecture components
-![architecture](doc/source/images/architecture.png)
+![architecture](images/architecture.png)
